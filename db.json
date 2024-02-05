@@ -1,0 +1,505 @@
+{
+    "last_checked_all": "14 Jan 2024",
+    "clients": [
+        {
+            "name": "Adecco",
+            "domains": [
+                {
+                    "url": "careers.adeccogroup.com",
+                    "expiry": "05 Feb 2024"
+                },
+                {
+                    "url": "karriere.adeccogroup.com",
+                    "expiry": "12 Feb 2024"
+                },
+                {
+                    "url": "emplois.adeccogroup.com",
+                    "expiry": "05 Feb 2024"
+                },
+                {
+                    "url": "italycareer.adeccogroup.com",
+                    "expiry": "12 Feb 2024"
+                },
+                {
+                    "url": "empleos.adeccogroup.com",
+                    "expiry": "28 Feb 2024"
+                },
+                {
+                    "url": "werkenbij.adeccogroup.com",
+                    "expiry": "14 Mar 2024"
+                },
+                {
+                    "url": "carreiras.adeccogroup.com",
+                    "expiry": "26 Mar 2024"
+                },
+                {
+                    "url": "internal-careers.adeccogroup.com",
+                    "expiry": "13 Mar 2024"
+                }
+            ],
+            "jira": [],
+            "id": 1,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Unilever",
+            "domains": [
+                {
+                    "url": "careers.unilever.com",
+                    "expiry": "26 Mar 2024"
+                },
+                {
+                    "url": "careers.unilever.com.tr",
+                    "expiry": "10 Apr 2024"
+                },
+                {
+                    "url": "careers.unilever.com.br",
+                    "expiry": "10 Apr 2024"
+                },
+                {
+                    "url": "careers.unilever.es",
+                    "expiry": "10 Apr 2024"
+                },
+                {
+                    "url": "carrieres.unilever.fr",
+                    "expiry": "10 Apr 2024"
+                },
+                {
+                    "url": "karriere.unilever.de",
+                    "expiry": "10 Apr 2024"
+                },
+                {
+                    "url": "careers.unilever.com.cn",
+                    "expiry": "10 Apr 2024"
+                }
+            ],
+            "jira": [],
+            "id": 2,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Nutreco",
+            "domains": [
+                {
+                    "url": "careers.nutreco.com",
+                    "expiry": "16 Jan 2025"
+                },
+                {
+                    "url": "carrieres.nutreco.com",
+                    "expiry": "14 Dec 2024"
+                },
+                {
+                    "url": "carreras.nutreco.com",
+                    "expiry": "14 Dec 2024"
+                }
+            ],
+            "jira": [
+                {
+                    "id": "DCR-2478"
+                }
+            ],
+            "id": 3,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Arm",
+            "domains": [
+                {
+                    "url": "internalcareers.arm.com",
+                    "expiry": "10 Feb 2025"
+                },
+                {
+                    "url": "careers.arm.com",
+                    "expiry": "17 Aug 2024"
+                }
+            ],
+            "jira": [
+                {
+                    "id": "DCR-2458"
+                }
+            ],
+            "id": 4,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Bupa",
+            "domains": [
+                {
+                    "url": "careers.bupa.com.au",
+                    "expiry": "07 Feb 2024"
+                },
+                {
+                    "url": "careers.bupa.co.nz",
+                    "expiry": "06 Mar 2024"
+                }
+            ],
+            "jira": [],
+            "id": 5,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "CCEP",
+            "domains": [
+                {
+                    "url": "www.ccep.jobs",
+                    "expiry": "11 Feb 2024"
+                }
+            ],
+            "jira": [],
+            "id": 6,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "GroupVyV",
+            "domains": [
+                {
+                    "url": "mobilites.groupe-vyv.fr",
+                    "expiry": "03 Oct 2024"
+                }
+            ],
+            "jira": [],
+            "id": 7,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Shell",
+            "domains": [
+                {
+                    "url": "jobs.shell.com",
+                    "expiry": "10 Feb 2024"
+                }
+            ],
+            "jira": [],
+            "id": 8,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Galeria",
+            "domains": [
+                {
+                    "url": "karriere.galeria.de",
+                    "expiry": "26 Mar 2024"
+                }
+            ],
+            "jira": [],
+            "id": 9,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "IKEA",
+            "domains": [
+                {
+                    "url": "jobs.ikea.com",
+                    "expiry": "07 Sep 2024"
+                },
+                {
+                    "url": "jobs.ikeachina.cn",
+                    "expiry": "07 Sep 2024"
+                }
+            ],
+            "jira": [],
+            "id": 10,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Vinci",
+            "domains": [
+                {
+                    "url": "jobs.vinci.com",
+                    "expiry": "09 Dec 2024"
+                }
+            ],
+            "jira": [],
+            "id": 11,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Primark",
+            "domains": [
+                {
+                    "url": "careers.primark.com",
+                    "expiry": "12 Jul 2024"
+                },
+                {
+                    "url": "careers-us.primark.com",
+                    "expiry": "13 Apr 2024"
+                },
+                {
+                    "url": "at.karriere.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "be.emploi.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "be.carriere.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "cz.kariera.primark.com",
+                    "expiry": "22 Jun 2024"
+                },
+                {
+                    "url": "fr.emploi.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "de.karriere.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "it.carriere.primark.com",
+                    "expiry": "01 Feb 2024"
+                },
+                {
+                    "url": "nl.carriere.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "pl.kariera.primark.com",
+                    "expiry": "25 Aug 2024"
+                },
+                {
+                    "url": "pt.carreira.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "ro.cariera.primark.com",
+                    "expiry": "04 Feb 2024"
+                },
+                {
+                    "url": "es.empleos.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "sk.kariera.primark.com",
+                    "expiry": "21 Mar 2024"
+                },
+                {
+                    "url": "es.empleos.primark.com",
+                    "expiry": "02 Aug 2024"
+                },
+                {
+                    "url": "si.kariera.primark.com",
+                    "expiry": "25 Aug 2024"
+                }
+            ],
+            "jira": [],
+            "id": 12,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Evotec",
+            "domains": [
+                {
+                    "url": "careers.evotec.com",
+                    "expiry": "03 Mar 2024"
+                }
+            ],
+            "jira": [],
+            "id": 13,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Rakuten",
+            "domains": [
+                {
+                    "url": "japan-job-jp.rakuten.careers",
+                    "expiry": "10 May 2024"
+                },
+                {
+                    "url": "japan-job-en.rakuten.careers",
+                    "expiry": "10 May 2024"
+                }
+            ],
+            "jira": [],
+            "id": 14,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Enterprise",
+            "domains": [
+                {
+                    "url": "careers.enterprise.co.uk",
+                    "expiry": "26 May 2024"
+                },
+                {
+                    "url": "careers.enterprise.ca",
+                    "expiry": "07 Dec 2024"
+                },
+                {
+                    "url": "emplois.enterprise.ca",
+                    "expiry": "07 Dec 2024"
+                },
+                {
+                    "url": "emplois.enterprise.fr",
+                    "expiry": "26 May 2024"
+                },
+                {
+                    "url": "karriere.enterprise.de",
+                    "expiry": "26 May 2024"
+                },
+                {
+                    "url": "careers.enterprise.ie",
+                    "expiry": "26 May 2024"
+                },
+                {
+                    "url": "empleos.enterprise.es",
+                    "expiry": "26 May 2024"
+                },
+                {
+                    "url": "careers.enterprise.com",
+                    "expiry": "07 Dec 2024"
+                }
+            ],
+            "jira": [],
+            "id": 15,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "UPS",
+            "domains": [
+                {
+                    "url": "jobs-ups.uk",
+                    "expiry": "20 Nov 2024"
+                },
+                {
+                    "url": "jobs-ups.com",
+                    "expiry": "30 May 2024"
+                },
+                {
+                    "url": "global.jobs-ups.com",
+                    "expiry": "12 Mar 2024"
+                },
+                {
+                    "url": "jobs-ups.ae",
+                    "expiry": "20 Nov 2024"
+                },
+                {
+                    "url": "en.jobs-ups.ca",
+                    "expiry": "10 Feb 2024"
+                },
+                {
+                    "url": "www.jobs-ups.fr",
+                    "expiry": "27 Mar 2024"
+                },
+                {
+                    "url": "www.jobs-ups.de",
+                    "expiry": "08 Feb 2024"
+                },
+                {
+                    "url": "www.jobs-ups.in",
+                    "expiry": "09 Apr 2024"
+                },
+                {
+                    "url": "www.jobs-ups.ie",
+                    "expiry": "12 Feb 2024"
+                },
+                {
+                    "url": "www.jobs-ups.mx",
+                    "expiry": "09 Apr 2024"
+                },
+                {
+                    "url": "www.jobs-ups.nl",
+                    "expiry": "08 Feb 2024"
+                },
+                {
+                    "url": "www.jobs-ups.pl",
+                    "expiry": "06 Mar 2024"
+                }
+            ],
+            "jira": [],
+            "id": 16,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "name": "Sensient Technologies",
+            "domains": [
+                {
+                    "url": "careers.sensient.com",
+                    "expiry": "25 Mar 2024"
+                },
+                {
+                    "url": "www.sensientcareers.cn",
+                    "expiry": "19 Mar 2024"
+                }
+            ],
+            "jira": [],
+            "id": 17,
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "id": 18,
+            "name": "Aarons",
+            "domains": [
+                {
+                    "url": "jobs.aarons.com",
+                    "expiry": "06 Apr 2024"
+                }
+            ],
+            "jira": [],
+            "last_checked": "14 Jan 2024"
+        },
+        {
+            "id": 19,
+            "name": "BAT",
+            "domains": [
+                {
+                    "url": "kariyer.bat.com",
+                    "expiry": "14 Oct 2024"
+                },
+                {
+                    "url": "careers.bat.com",
+                    "expiry": "05 Jun 2024"
+                },
+                {
+                    "url": "karriere.bat.com",
+                    "expiry": "05 Aug 2024"
+                },
+                {
+                    "url": "carreras.bat.com",
+                    "expiry": "04 Aug 2024"
+                },
+                {
+                    "url": "carrieres.bat.com",
+                    "expiry": "04 Aug 2024"
+                },
+                {
+                    "url": "careers.batj.com",
+                    "expiry": "21 Sep 2024"
+                },
+                {
+                    "url": "karir.bat.com",
+                    "expiry": "08 Sep 2024"
+                },
+                {
+                    "url": "kariera.bat.com",
+                    "expiry": "08 Sep 2024"
+                },
+                {
+                    "url": "www.bagbs.ro",
+                    "expiry": "25 Aug 2024"
+                },
+                {
+                    "url": "careers.batkorea.com",
+                    "expiry": "08 Sep 2024"
+                },
+                {
+                    "url": "carreiras.bat.com",
+                    "expiry": "14 Oct 2024"
+                },
+                {
+                    "url": "kariera.ua.bat.com",
+                    "expiry": "14 Oct 2024"
+                },
+                {
+                    "url": "careers.batchina.cn",
+                    "expiry": "08 Nov 2024"
+                }
+            ],
+            "jira": [],
+            "last_checked": "14 Jan 2024"
+        }
+    ]
+}
